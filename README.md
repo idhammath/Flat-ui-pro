@@ -1,4 +1,3 @@
-# Flat-ui-pro
 Flat UI Pro
 =======
 
